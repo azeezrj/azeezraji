@@ -3,7 +3,7 @@
 <h2>👨‍💻 IT Support & System Administrator Projects:</h2>
 
 - <b>Active Directory Home Lab</b>
-  - [Praciting WINDOW SERVER Home lab](https://github.com/azeezrj/ActiveDirectoryLab)
+  - [Praciting WINDOW SERVER Home lab]
 
 <h2>Certifications:</h2>
 - [Google IT Support Professional] (#Link)
@@ -11,7 +11,7 @@
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [Tutorial Active Directory Home lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Tutorial Active Directory Home lab]
 
 
 <h2> 🤳 Connect with me:</h2>
