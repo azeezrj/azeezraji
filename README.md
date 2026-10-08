@@ -21,7 +21,7 @@
 [<img align="left" alt="AzeezRaji | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="AzeezRaji | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/@azeezraji8997
+[twitter]: https://x.com/zeezraji
+[youtube]: https://www.youtube.com/@zeezraji
 [instagram]: https://www.instagram.com/zeezraji
 [linkedin]: https://www.linkedin.com/in/azeezraji/
