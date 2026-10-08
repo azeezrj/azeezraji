@@ -1,4 +1,4 @@
-<h1>Hi, I'm Azeez! <br/><a href="https://github.com/azeezrj">Technical Support & Cloud Practitioner</a>, <a href="https://www.linkedin.com/in/azeez-raji-75491a374/">System Administrator</a>, <a href="https://www.youtube.com/@azeezraji8997">YouTuber</a></h1>
+<h1>Hi, I'm Azeez! <br/><a href="https://github.com/azeezrj">Technical Support , Cloud Practitioner</a>, <a href="https://www.linkedin.com/in/azeez-raji-75491a374/">System Administrator</a>, <a href="https://www.youtube.com/@azeezraji8997">YouTuber</a></h1>
 
 <h2>👨‍💻 IT Support & System Administrator Projects:</h2>
 
