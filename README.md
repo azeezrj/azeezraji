@@ -23,5 +23,5 @@
 
 [twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/@azeezraji8997
-[instagram]: https://www.instagram.com/harryt673?stkn=Zjlha3hkcXppaWFh&utm_source=qr
-[linkedin]: https://www.linkedin.com/in/azeez-raji-75491a374/
+[instagram]: https://www.instagram.com/zeezraji
+[linkedin]: https://www.linkedin.com/in/azeezraji/
